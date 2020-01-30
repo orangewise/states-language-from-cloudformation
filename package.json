@@ -1,6 +1,6 @@
 {
   "name": "states-language-from-cloudformation",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Extracts states-language from cloudformation (AWS::StepFunctions::StateMachine)",
   "main": "index.js",
   "bin": {
