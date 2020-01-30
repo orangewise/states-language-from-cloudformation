@@ -17,7 +17,9 @@
     "states-language",
     "cloudformation",
     "step-functions",
-    "statemachine"
+    "statemachine",
+    "aws",
+    "cdk"
   ],
   "author": "Ronald Luitwieler",
   "license": "ISC",
